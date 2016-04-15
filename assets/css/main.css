@@ -466,19 +466,6 @@
 		.icon > .label {
 			display: none;
 		}
-		
-	.icon {
-		display: inline-block;
-		width: 1em;
-		height: 1em;
-		fill: currentColor;
-	}
-	.fill-color1 {
-		fill: #404040;
-	}
-	.fill-color2 {
-		fill: #fff;
-	}
 
 /* List */
 
